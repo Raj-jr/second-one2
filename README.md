@@ -3,4 +3,5 @@
 ## New feautre
 ## Branch Demo --> Head now @ Hotfix-update
 
-## Checkout diff with fetch cmds.
+=======
+## New feautre from new-feature-branch update.
